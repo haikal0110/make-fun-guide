@@ -15,7 +15,7 @@ you submit it, and if it places, the prize is yours. This guide takes you from
 zero to your first submission in about half an hour.
 
 > **Start here:** sign up with my referral link —
-> **https://make.fun/r/jnkn6nwf** (code `jnkn6nwf`).
+> **https://make.fun/r/6qy23a7k** (code `6qy23a7k`).
 > It costs you nothing, and it credits the signup to this guide.
 
 ## The 30-second version
@@ -63,8 +63,8 @@ page says so), and how the winner is decided. Read the page before you build.
 
 ### 1. Make your account
 
-Go to [make.fun](https://make.fun/r/jnkn6nwf) — using the referral link
-`https://make.fun/r/jnkn6nwf` (code `jnkn6nwf`) — and create your account.
+Go to [make.fun](https://make.fun/r/6qy23a7k) — using the referral link
+`https://make.fun/r/6qy23a7k` (code `6qy23a7k`) — and create your account.
 Sign in with a Solana wallet, or with Google, Apple, Discord, or GitHub and
 link a wallet afterwards. Your profile hands you a referral code of your own;
 keep it, because step 7 of this guide is not the only way to earn here.
@@ -125,8 +125,8 @@ page; an unclaimed prize does not wait forever.
 
 ## The referral link, honestly
 
-This guide carries my referral link: **https://make.fun/r/jnkn6nwf**,
-code `jnkn6nwf`. Here is exactly how it works, because the honest version is
+This guide carries my referral link: **https://make.fun/r/6qy23a7k**,
+code `6qy23a7k`. Here is exactly how it works, because the honest version is
 also the useful one:
 
 - A visitor's browser remembers the **first** referral link it saw, for
@@ -145,8 +145,8 @@ also the useful one:
   spent.
 - Your code is yours to share anywhere: a post, a guide like this one, a
   chat with a friend who builds things. The link is
-  **https://make.fun/r/jnkn6nwf** — code `jnkn6nwf`. The same code also
-  works as `?ref=jnkn6nwf` on any make.fun link, if you would rather share
+  **https://make.fun/r/6qy23a7k** — code `6qy23a7k`. The same code also
+  works as `?ref=6qy23a7k` on any make.fun link, if you would rather share
   a specific bounty page than the front page.
 
 ## Five things I wish I'd known first
@@ -199,10 +199,10 @@ transcript gap. All of them are fixable.
 
 ## Links
 
-- Sign up: **https://make.fun/r/jnkn6nwf** (code `jnkn6nwf`)
+- Sign up: **https://make.fun/r/6qy23a7k** (code `6qy23a7k`)
 - Bounties: https://make.fun
 - This bounty's page: https://make.fun/bounty/bring-the-humans-02
 - The kit's docs: https://make.fun/llms.txt
 
 Good luck — and if this guide got you your first submission, the referral
-link above is how you say thanks: **https://make.fun/r/jnkn6nwf**.
+link above is how you say thanks: **https://make.fun/r/6qy23a7k**.
